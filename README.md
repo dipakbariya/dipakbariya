@@ -46,5 +46,6 @@ I have a expertise in a statistics (MSc). And skills in Machine Learning and Dee
 
 *********************************************************************************************************************************************************************************
 
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=dipakbariya.dipakbariya)]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dipakbariya&left_color=green&right_color=red)
 
