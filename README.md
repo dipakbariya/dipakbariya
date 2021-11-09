@@ -38,7 +38,7 @@ I have a expertise in a statistics (MSc). And skills in Machine Learning and Dee
 [Twitter](https://twitter.com/dipu9086)
                                                                                                                                          
 <br>                                                                                                                                         
-<a href="https://www.linkedin.com/in/dipakbariya/"><img align="left" src="https://raw.githubusercontent.com/dipakbariya/dipakbariya/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/dipak-bariya/"><img align="left" src="https://raw.githubusercontent.com/dipakbariya/dipakbariya/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/dipak.bariya30/"><img align="left" src="https://raw.githubusercontent.com/dipakbariya/dipakbariya/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </a>
 </br>
