@@ -1,5 +1,5 @@
 <h1 align="center">:octocat: Hello World! :octocat:</h1>
-[![](https://visitcount.itsvg.in/api?id=dipakbariya&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dipakbariya&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 "# Dipak Bariya"
