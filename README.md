@@ -1,6 +1,5 @@
 <h1 align="center">:octocat: Hello World! :octocat:</h1>
-[![](https://visitcount.itsvg.in/api?id=dipakbariya&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/63997962/213912935-eff2449b-ac9a-438b-92e7-65034109b1cf.svg)
+
 
 
 "# Dipak Bariya"
