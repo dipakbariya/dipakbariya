@@ -1,3 +1,7 @@
+<h1 align="center">:octocat: Hello World! :octocat:</h1>
+[![](https://visitcount.itsvg.in/api?id=dipakbariya&icon=7&color=9)](https://visitcount.itsvg.in)
+
+
 "# Dipak Bariya"
 
 Hi there, I'm Dipak Bariya. A Data Science Enthusiastic.'
