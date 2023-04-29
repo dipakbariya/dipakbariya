@@ -50,6 +50,6 @@ I have a expertise in a statistics (MSc). And skills in Machine Learning and Dee
 
 *********************************************************************************************************************************************************************************
 
-
+![](https://komarev.com/ghpvc/?username=dipakbariya&label=PROFILE+VIEWS)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dipakbariya&left_color=green&right_color=red)
 
